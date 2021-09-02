@@ -5,3 +5,5 @@ This webpage is just an assignment from the CSCE 679 class Data Visualization at
 Also identify (link to) one data visualization that you find particularly helpful/insightful and explain why you think this is so.
 
 Finally, identify (link to) one data visualization that you find is particularly bad/unhelpful in some way. Explain why it is lacking -- maybe it encourages a misunderstanding of the data, is hard to understand, or has serious graphical design flaws."
+
+Link: https://nkemdianyiam.github.io/CSCE-679_Webpage/
