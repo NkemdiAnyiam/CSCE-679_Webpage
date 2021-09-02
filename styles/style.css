@@ -118,10 +118,11 @@ a:active {
 }
 
 .answers-container {
-  display: grid;
+  display: flex;
+  flex-direction: column;
   justify-content: center;
-  grid-template-columns: 1fr;
-  row-gap: 8rem;
+  gap: 8rem;
+  font-weight: 300;
 }
 
 /* .question-answer {
